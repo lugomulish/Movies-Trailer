@@ -4,6 +4,9 @@ This is an introductory project how to use the classes in Python.
 The project consist in generate the html code for a page to show
 info and trailers of movies using python classes.
 
+**This project is based on the Movies-trailer created by Udacity-Team
+for the course "Programming Foundations with Python".**
+
 ### Tech
 
 * [Materialize] - Great Framework css for modern web apps.
